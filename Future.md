@@ -4,10 +4,10 @@ Future Technologies
 Revolutions are going on right now in the IT industry. I feel informing you of this is my responsibility. All of the things I am about to mention have the opportunity to save us time, resources and up-time. Unlike usual, I am going to try and keep this short and sweet in an effort for you to read it.
 
 - Markdown
-- Source Control ([Github](http://www.github.com "Github"), [Visual Studio](https://www.visualstudio.com/products/what-is-visual-studio-online-vs "Visual Studio Online"), ...)
+- Source Control ([Github](http://www.github.com "Github"), [Visual Studio](https://www.visualstudio.com/integrate/explore/explore-vso-vsi# "Visual Studio Online"), ...)
 - Build Testing ([Appveyor](http://www.appveyor.com/ "Appveyor"), [Visual Studio](https://www.visualstudio.com/products/what-is-visual-studio-online-vs "Visual Studio Online"), [Pester](https://github.com/pester/Pester "Pester (PowerShell Tester)"), ...)
 - Configuration Management ([Chef](http://www.chef.io "Chef"), [PuppetLabs](http://www.puppetlabs.com "Puppet"), [PowerShellDSC](https://github.com/PowerShell "PowerShell"), ...)
-- Containers (VMWare, Hyper-V, [Docker](http://www.docker.com "Docker"), ...)
+- Containers (VMWare, Hyper-V, [Docker](https://www.docker.com "Docker"), ...)
 
 # That's it! You can stop reading here #
 
