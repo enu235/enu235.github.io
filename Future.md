@@ -15,7 +15,7 @@ Revolutions are going on right now in the IT industry. I feel informing you of t
 
 # Details #
 ### Markdown ###
-This document is a markdown document. View it raw [here](https://github.com/enu235/enu235.github.io/raw/master/Future.md, "Raw"). Markdown is quickly becoming the standard documentation method because it is easily readable, works well in development environments like GIT where built-in version control exists, and is easy to learn.
+This document is a markdown document. View it raw [here](https://github.com/enu235/enu235.github.io/raw/master/Future.md "Raw"). Markdown is quickly becoming the standard documentation method because it is easily readable, works well in development environments like GIT where built-in version control exists, and is easy to learn.
 
 ### Source Control and Build Testing ###
 Changes kill. Source control saves. When your environment is controlled by a source engine like Git, all changes are well understood, documented and tested before being committed. Full test environments can be spun up for team approval, comments and more.
